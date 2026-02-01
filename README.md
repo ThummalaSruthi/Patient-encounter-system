@@ -1,4 +1,4 @@
-Medical Encounter Management System (MEMS)
+Medical Encounter Management System 
 
 A production-ready backend application for managing patients, doctors, and medical appointments.
 
